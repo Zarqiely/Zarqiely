@@ -12,7 +12,7 @@ IELTS 7.5
 
 **BUCT PRC**  - Computer Science and Technology
 
-## Intern🤔
+## Internship🤔
 
 **Diggo Beijing**  - Content Operating for Oversea Web Products
 
