@@ -8,9 +8,9 @@ IELTS 7.5
 
 ## Educational Background🫨
 
-**CityU HK**  - Bussiness Information System - Financial Intelligent Technology
+**CityU HK** *Master* - Bussiness Information System - Financial Intelligent Technology
 
-**BUCT PRC**  - Computer Science and Technology
+**BUCT PRC** *Bachelor* - Computer Science and Technology
 
 ## Internship🤔
 
