@@ -1,16 +1,13 @@
-## Hi there 👋
+## Kaylee👯
 
-<!--
-**Zarqiely/Zarqiely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Educational Background🫨
 
-Here are some ideas to get you started:
+**CityU HK** Bussiness Information System - Financial Intelligent Technology
+**BUCT PRC** Computer Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intern🤔
+
+**Diggo Beijing** Content Operating for Oversea Web Products
+**Baker Tilly HK** IT Audit
+
+![What im thinking everyday](Screenshot 2024-06-14 145543.png)
