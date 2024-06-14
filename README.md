@@ -1,5 +1,9 @@
 ## Kaylee👯
 
+ESFJ/ENFJ
+IELTS 7.5
+*Spanish* *English* *Cantonese* *Chinese*
+
 ## Educational Background🫨
 
 **CityU HK** Bussiness Information System - Financial Intelligent Technology
