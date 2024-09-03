@@ -4,7 +4,7 @@ ESFJ/ENFJ
 
 IELTS 7.5
 
-*Spanish* *English* *Cantonese* *Chinese*
+*Spanish* *English* *Cantonese* *Mandarin*
 
 ## Educational Background🫨
 
